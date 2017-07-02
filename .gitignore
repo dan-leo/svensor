@@ -1,0 +1,7 @@
+.sloeber/.metadata
+.sloeber/RemoteSystemsTempFiles
+.sloeber/*/Release
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
